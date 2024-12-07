@@ -1,8 +1,8 @@
 const App = () => {
   return (
-    <>
-      <h1 className="font-bold text-3xl underline">Hello World</h1>
-    </>
+    <div className="bg-theme-lightGreen text-theme-navy p-4">
+      Custom Theme Example
+    </div>
   );
 };
 
